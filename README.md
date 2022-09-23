@@ -1,5 +1,5 @@
 # Tips: 
-------------------------------------------------------------------------------------------------
+
 1. If screenshots can't be opened in proper size, please view by clicking the "Download" button.
 2. Better to use Google Browser to open .html files.
 ------------------------------------------------------------------------------------------------
@@ -9,4 +9,3 @@
 * other repo or file is automatically created >> ide/git config.
 * some parts haven't been finished -- later version will be updated.
 * this project maybe not compatible with some PCs or browsers.
-------------------------------------------------------------------------------------------------
