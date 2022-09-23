@@ -1,6 +1,7 @@
 # Tips: 
 
 < If screenshots can't be opened in proper size, please view by clicking the "Download" button. >
+
 < Better to use Google Browser to open .html files. >
 
 * screenshots for this lab assignment are in "screenshots" repository -- 5 screenshots totally.
